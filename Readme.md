@@ -158,6 +158,8 @@ Role: Data Analyst Enthusiast
 
 Contact: [anjalishaw97543@gmail.com] 
 
-Linkdin:  
+Linkdin: [//www.linkedin.com/in/anjali-shaw976]
+
+GitHub: [https://github.com/anjalishaw760] 
 
 GitHub: 
