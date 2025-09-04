@@ -5,7 +5,6 @@
 
 
 
-## 📌 Project Title
 
 Blinkit Grocery Sales & Performance Dashboard
 
