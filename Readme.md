@@ -1,5 +1,9 @@
 # Blinkit Grocery Data Analysis
 
+<img width="1920" height="1080" alt="Screenshot (694)" src="https://github.com/user-attachments/assets/9f43ec18-f228-47fa-b2ef-ba00f854a1aa" />
+
+
+
 ## 📌 Project Title
 
 Blinkit Grocery Sales & Performance Dashboard
