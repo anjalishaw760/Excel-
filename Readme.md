@@ -1,6 +1,7 @@
 # Blinkit Grocery Data Analysis
 
-<img width="1920" height="1080" alt="Screenshot (694)" src="https://github.com/user-attachments/assets/9f43ec18-f228-47fa-b2ef-ba00f854a1aa" />
+<img width="1178" height="663" alt="Screenshot (695)" src="https://github.com/user-attachments/assets/e5d9f2f9-1fe2-403d-af12-0b65f32cfaa0" />
+
 
 
 
