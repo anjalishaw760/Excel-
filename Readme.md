@@ -160,6 +160,4 @@ Contact: [anjalishaw97543@gmail.com]
 
 Linkdin: [//www.linkedin.com/in/anjali-shaw976]
 
-GitHub: [https://github.com/anjalishaw760] 
-
-GitHub: 
+GitHub: [https://github.com/anjalishaw760]
