@@ -1,11 +1,9 @@
 # Blinkit Grocery Data Analysis
 
-
-
-
-# 📌 Project Title
+## 📌 Project Title
 
 Blinkit Grocery Sales & Performance Dashboard
+
 
 # 📌 Brief One-Line Summary Overview
 
