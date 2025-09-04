@@ -153,5 +153,11 @@ Create a web-based interactive dashboard for real-time access.
 # 📌 Author & Contact
 
 Author: Anjali Shaw
+
 Role: Data Analyst Enthusiast
-Contact: [Your Email] | [LinkedIn Profile] | [GitHub Profile]
+
+Contact: [anjalishaw97543@gmail.com] 
+
+Linkdin:  
+
+GitHub: 
