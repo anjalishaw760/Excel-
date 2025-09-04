@@ -13,17 +13,17 @@ Blinkit Grocery Sales & Performance Dashboard
 
 
 
-# 📌 Brief One-Line Summary Overview
+## 📌 Brief One-Line Summary Overview
 
 An interactive Excel dashboard to analyze Blinkit grocery sales performance, customer ratings, outlet distribution, and revenue trends for data-driven decision-making.
 
 
-# 📌 Problem Statement
+## 📌 Problem Statement
 
 Grocery delivery companies like Blinkit generate massive amounts of sales and customer data. However, without proper visualization and analysis, decision-makers struggle to identify trends, track outlet performance, understand customer preferences, and optimize business operations. This project aims to transform raw sales data into meaningful insights through a structured, visual dashboard.
 
 
-# 📌 Dataset
+## 📌 Dataset
 
 Source: Blinkit sales and outlet data (sample dataset).
 
@@ -44,7 +44,7 @@ Average Sales
 Customer Rating
 
 
-# 📌 Tools and Technologies
+## 📌 Tools and Technologies
 
 
 Microsoft Excel: For data cleaning, preparation, and visualization.
@@ -54,7 +54,7 @@ Excel Functions: SUMIF, VLOOKUP, Pivot Tables, Conditional Formatting.
 Charts & Visuals: Pie charts, bar graphs, line charts, donut charts.
 
 
-# 📌 Methods
+## 📌 Methods
 
 
 1. Data Cleaning & Preparation
@@ -84,7 +84,7 @@ Built interactive filters for Outlet Type, Outlet Size, and Product Category.
 Used pivot tables and charts to present trends and insights.
 
 
-# 📌 Key Insights
+## 📌 Key Insights
 
 
 Total sales reached $1.20M with an average sales value of $141.
@@ -98,7 +98,7 @@ Supermarket Type 1 outlets performed best in terms of total sales.
 Certain product categories drive most revenue, highlighting areas for marketing focus.
 
 
-# 📌 Dashboard / Model / Output
+## 📌 Dashboard / Model / Output
 
 
 The final Excel dashboard includes:
@@ -116,7 +116,7 @@ Interactive slicers for easy filtering.
 Line chart showing outlet establishment trends.
 
 
-# 📌 How to Run this Project?
+## 📌 How to Run this Project?
 
 1. Open the provided Excel file (Blinkit Grocery Data.xlsx).
 
@@ -127,7 +127,7 @@ Line chart showing outlet establishment trends.
 4. Explore charts and KPIs to gain insights.
 
 
-# 📌 Results & Conclusion
+## 📌 Results & Conclusion
 
 
 The dashboard provides a holistic view of sales performance across outlets and categories.
@@ -139,7 +139,7 @@ Customer satisfaction metrics give valuable insights into service quality.
 The analysis helps Blinkit focus on optimizing outlet performance and boosting sales strategies.
 
 
-# 📌 Future Work
+## 📌 Future Work
 
 Automate data updates by connecting the dashboard with live databases.
 
@@ -150,7 +150,7 @@ Forecast sales trends using predictive models in Python/Power BI.
 Create a web-based interactive dashboard for real-time access.
 
 
-# 📌 Author & Contact
+## 📌 Author & Contact
 
 Author: Anjali Shaw
 
